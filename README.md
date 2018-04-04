@@ -1,5 +1,5 @@
 # bwFAT
-a file system for linux utilizing FAT
+a FAT file system for linux
 
 ## bwFAT API:
 NOTE: Remember to use `#include “bwFAT.h”` in source files, and compile files with bwFAT.o (using `gcc -c bwFAT.c`). Compile an object file from test.c with `gcc -c test.c` then compile with `gcc bwFAT.o test.o -lm`. Remember the -lm , you need the math library!!!!
